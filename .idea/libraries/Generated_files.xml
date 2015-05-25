@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/Store.js" />
+        <item url="file://$PROJECT_DIR$/src/Dispatcher.js" />
+        <item url="file://$PROJECT_DIR$/src/Invariant.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Store.js" />
+      <root url="file://$PROJECT_DIR$/src/Dispatcher.js" />
+      <root url="file://$PROJECT_DIR$/src/Invariant.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
